@@ -62,7 +62,8 @@ EDA-Data-analysis-/
 ├── happiness.csv                                         # World happiness dataset
 ├── SuicideChina.csv                                       # Suicide statistics dataset
 ├── employee_dataset.csv                                  # Employee records dataset
-│
+├── Iris Code                                             # Dataset taken from Zip file
+├── Model Train                                           # Moodle Experiment 5
 ├── LICENSE                                               # MIT License
 └── README.md                                             # Project documentation
 ```
@@ -167,7 +168,7 @@ These scripts were developed as part of **EDA lab/practical assignments** to bui
 
 ## 🕒 Last Updated
 
-**1 September 2026**
+**10 September 2026**
 
 ---
 
